@@ -2,7 +2,6 @@
 ul {list-style: none;}
 a {text-decoration: none; cursor: pointer; opacity: 0.9;}
 a:houve {opacity: 1;}
-.container {min-width: 1152px;}
 
 body{
     font-size: 100%;
@@ -51,8 +50,7 @@ header .row .col .li a {
 }
 
 .sliders .container .slider {
-    background-color: red;
 }
 
-.sliders .container .slider { 
+.sliders {
 }
