@@ -1,0 +1,14 @@
+body{
+    font-size: 100%;
+    list-style-type: none;
+}
+
+header {
+    position: fixed;  
+    display: flex;
+
+}
+
+header .row {
+    background-color: red;
+}
